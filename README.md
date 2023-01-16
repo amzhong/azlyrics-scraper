@@ -14,6 +14,6 @@ This is an alternative to [lyricsgenius](https://github.com/johnwmillr/LyricsGen
 ### Spotify API
 Head over to https://developer.spotify.com/dashboard/ and "Create An App" to get your client id and client secret needed to make API calls.
 
-To find the playlist ID of a playlist, click the (...) button, go down to "Share", hold down the option key (Mac) / Alt key (Windows), and click on the "Copy Spotify URI" option that should appear. This will give you something like
+To locate the playlist ID of a playlist, click the (...) button, go down to "Share", hold down the option key (Mac) / Alt key (Windows), and click on the "Copy Spotify URI" option that should appear. This will give you something like _spotify:playlist:37i9dQZF1DX2UgsUIg75Vg_; the `playlist_id` in this case would be _37i9dQZF1DX2UgsUIg75Vg_.
 
 ## Usage
